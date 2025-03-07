@@ -28,5 +28,7 @@ This analysis examines employment trends in the UK, focusing on:
 
 ## Instruction to remove the conda environment
    conda deactivate
+
    conda remove --name uk-employment --all
+   
    (And remove all demo files)
