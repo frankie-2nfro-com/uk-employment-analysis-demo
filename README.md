@@ -36,7 +36,8 @@ This analysis examines employment trends in the UK, focusing on:
 
 
 ## Sample Output
-> python analysis.py                                         
+$ python analysis.py  
+                                       
 === UK Employment Data Analysis ===
 This analysis examines employment trends across different ethnic groups
 and the impact of the 2008 financial crisis on employment rates.
