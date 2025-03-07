@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated files
+reports/*.png
+reports/*.pdf
+
+# Conda environment
+.conda/
+.conda-meta/
+
